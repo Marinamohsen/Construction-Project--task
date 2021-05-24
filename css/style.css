@@ -1,0 +1,413 @@
+.first-content {
+
+	background-color: #fecb10;
+}
+
+.first-content span {
+
+	margin-right: 20px;
+	font-size: 13px;
+}
+
+
+.second-nav {
+
+	background-color: #222534;
+}
+
+.second-div h2 {
+
+	margin-top: 20px;
+
+}
+
+.second-div p {
+
+	margin-bottom: 30px;
+
+}
+
+.second-nav img {
+
+	width: 130px;
+}
+
+.second-nav .nav-link{
+	color: white;
+}
+
+.slider-div{
+
+	padding: 0;
+}
+
+.navbar-nav .nav-item .nav-link {
+	color: white;
+}
+
+
+.text {
+
+	margin-top: 150px
+}
+
+.slider-img {
+	width: 100%;
+
+}
+
+.carousel-inner{
+
+	width:100%;
+	height: 90vh !important;
+}
+
+.carousel-caption {
+	position: absolute;
+    right: 15%;
+    top: 0;
+    bottom: 0;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-caption > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.carousel-item
+
+{
+	height: 100%;
+
+}
+
+.carousel-item img {
+
+	min-height: 100%;
+	object-fit: cover;
+}
+
+.carousel-caption-text1 {
+
+	font-size: 20px;
+	color: #fff;
+}
+
+.carousel-caption-text2 {
+
+	font-size:35px;
+	color: #fff;
+	text-transform: uppercase;
+
+
+}
+
+.carousel-caption-text3 {
+
+	font-size:40px;
+	color: #fecb10;
+	text-transform: uppercase;
+
+
+}
+
+.carousel-caption-text4 {
+	font-size: 14px;
+}
+
+
+.carousel-caption-btn {
+
+	background-color: #fecb10;
+	color: #fff;
+	border-radius: 6px;
+	height: 40px;
+	width: 130px;
+	margin-right: 30px;
+
+}
+
+.first-div {
+
+	margin-top: 25px;
+}
+
+.imgg {
+
+	width: 300px;
+}
+
+.first-div .text {
+
+	margin-top: 20px;
+	font-size: 15px;
+
+}
+
+
+
+.icons .icon {
+
+	font-size: 50px;
+	padding: 25px;
+	border-radius: 50%;
+	border: 6px solid #fbc914;
+	box-shadow: 0 0 0 5px #f9da5d, 0 0 0 10px #f2e69c;
+
+}
+
+.icons h5 {
+	margin-top: 30px;
+}
+
+.icons p {
+
+	margin-right: 33px;
+
+}
+
+
+.div-imgs h3 {
+
+	margin-top: 20px;
+}
+
+
+
+.div-imgs-content {
+
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding: 15px;
+}
+
+
+
+
+.div-imgs-content button {
+
+	background-color: #fecb10;
+	border: #fecb10;
+	color: #fff;
+	border-radius: 6px;
+	height: 35px;
+	width: 120px;
+	margin-right: 30px;
+	margin-top: 10px;
+	float: left;
+
+}
+
+.div-imgs-content p{
+	text-align: justify;
+	font-size: 14px;
+	margin: auto;
+}
+
+.div-imgs-content img {
+
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+
+.questions {
+
+	margin-top: 25px;
+}
+
+.questions h2 {
+	margin-bottom: 20px;
+}
+
+.questions input {
+
+	border: #fff;
+	border-radius: 4px;
+	line-height: 2;
+	margin-bottom: 10px;
+	padding: 5px;
+}
+
+.questions input:focus {
+
+	border: #fff;
+	
+}
+
+
+.questions .msg
+
+{
+	width: 285px;
+}
+
+.questions button {
+	background-color: #272b36;
+	border: #272b36;
+	color: #fff;
+	border-radius: 5px;
+	width: 80px;
+	height: 35px;
+}
+
+
+
+footer .footer {
+
+	background-image: url(images/2.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: left top;
+	background-color: #000;
+}
+
+.footer-logo {
+	width: 200px;
+}
+
+.icon-bk {
+
+	background-color: #fecb10;
+	border-radius: 50%;
+	width: 42px;
+	height: 42px;
+	display: flex;
+	margin-right: 10px;
+	justify-content: center;
+	align-items: center;
+	color: #000;
+
+}
+
+.icon-bk i {
+
+	font-size: 25px;
+	padding: 10px;
+
+}
+
+.explore h4 {
+
+	margin-bottom: 30px;
+
+}
+
+.explore li {
+
+	margin-bottom: 15px;
+	color: white;
+}
+
+
+
+.latest-post {
+
+	margin-bottom: 20px;
+	margin-top: 25px;
+}
+
+
+
+.latest-post img {
+
+	width: 60px;
+	height: 60px;
+
+}
+
+
+.latest-post p {
+
+	margin-top: 3px;
+	color: white;
+
+}
+
+
+
+.contact {
+
+	margin: 30px;
+
+}
+
+
+
+.contact i {
+
+	margin-right: 10px;
+	margin-top: 5px;
+	color: white;
+}
+
+.contact p {
+
+	color: white;
+}
+
+
+
+footer.footer {
+
+	background-image: url(../images/22.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: left top;
+	color: #fff;
+
+}
+
+
+
+.down-footer {
+
+
+	height: 50px;
+	width: 100%;
+	color: #fff;
+	text-align: center;
+	background-color: #222534;
+
+}
+
+.footer-classes {
+	margin-top: 20px;
+}
+
+.down-footer p {
+
+	margin-top: 10px;
+}
+
+.down-footer p>span {
+
+	color: #fecb10;
+}
+
+.border-red{
+	border-color: red;
+}
+input.form-control:focus {
+	outline: none;
+	box-shadow: none;
+}
+
+.form-group {
+	margin-right: 10px;
+}
